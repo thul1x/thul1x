@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mar%C3%ADlia,_SP-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
-  <img src="https://img.shields.io/badge/ADS_%E2%80%93_UNIMAR-1E90FF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Curso"/>
-  <img src="https://img.shields.io/badge/Foco-Web_Development-1E90FF?style=for-the-badge&logo=angular&logoColor=white" alt="Foco"/>
+  <img src="https://img.shields.io/github/followers/thul1x?style=for-the-badge&logo=github&logoColor=white&color=1E90FF&label=Seguidores" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/thul1x?style=for-the-badge&logo=github&logoColor=white&color=1E90FF&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-9-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/>
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TECNOLOGIAS_&_FERRAMENTAS-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=1E90FF" alt="Tecnologias"/>
+  <img src="https://img.shields.io/badge/TECNOLOGIAS_&_FERRAMENTAS-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=1E90FF" alt="Tecnologias"/>
 </div>
 
 <br/>
@@ -102,43 +102,6 @@
   </tr>
 </table>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PROJETOS-0D1117?style=for-the-badge&logo=gitbook&logoColor=1E90FF" alt="Projetos"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/thul1x/AcademiaHero" target="_blank">
-    <img src="https://img.shields.io/badge/AcademiaHero-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="AcademiaHero"/>
-  </a>
-  <a href="https://github.com/thul1x/StudyConnect" target="_blank">
-    <img src="https://img.shields.io/badge/StudyConnect-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="StudyConnect"/>
-  </a>
-  <a href="https://github.com/thul1x/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/thul1x/Ess-ncia" target="_blank">
-    <img src="https://img.shields.io/badge/Ess%C3%AAncia-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Essência"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GITHUB_STATS-0D1117?style=for-the-badge&logo=github&logoColor=1E90FF" alt="GitHub Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/thul1x?style=for-the-badge&logo=github&logoColor=white&color=1E90FF&label=Seguidores" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/thul1x?style=for-the-badge&logo=github&logoColor=white&color=1E90FF&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-9-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/>
 </div>
 
 <br/>
